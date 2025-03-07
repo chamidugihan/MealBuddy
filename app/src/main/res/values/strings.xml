@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MealBuddy</string>
+    <string name="textView">MealBuddy</string>
+    <string name="textView2">Fresh Dough, Fresh Love!</string>
+    <string name="button">LOGIN</string>
+    <string name="button2">SIGN UP</string>
+    <string name="button3">CREATE ACCOUNT</string>
+    <string name="button4">Forgot Password?</string>
+    <string name="editTextText3">OTP</string>
+    <string name="editTextText4">Password</string>
+    <string name="button6">Send</string>
+    <string name="textView3">Forget Password</string>
+    <string name="textView9">Pizza</string>
+    <string name="textView10">Menu</string>
+    <string name="textView13">Fungi ( Mushroom )</string>
+    <string name="textView15">With mushroom, tomato sauce and mozzarella</string>
+    <string name="textView21">Latest Products</string>
+    <string name="button42">View More</string>
+    <string name="button43">Pay</string>
+    <string name="textView101">Cart</string>
+    <string name="textView111">Total Price</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_admin_home">AdminHomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/group1">
+        <item
+            android:icon="@drawable/twotone_home_24"
+            android:id="@+id/navMenu"
+            android:title="Home"/>
+        <item
+            android:icon="@drawable/ballot"
+            android:id="@+id/naveProduct"
+            android:title="Products"/>
+
+        <item
+            android:icon="@drawable/cart"
+            android:id="@+id/navCart"
+            android:title="Cart"/>
+<!--        <item-->
+<!--            android:icon="@drawable/favorite"-->
+<!--            android:id="@+id/navFavorites"-->
+<!--            android:title="Favorites"/>-->
+    </group>
+
+<group android:id="@+id/group2">
+
+        <item
+            android:icon="@drawable/fastfood"
+            android:id="@+id/navOrders"
+            android:title="Ongoings Orders"/>
+        <item
+            android:icon="@drawable/history"
+            android:id="@+id/navHistory"
+            android:title="History"/>
+</group>
+
+
+    <group android:id="@+id/group3">
+<!--        <item-->
+<!--            android:icon="@drawable/article"-->
+<!--            android:id="@+id/navFeadback"-->
+<!--            android:title="Feadback"/>-->
+        <item
+            android:icon="@drawable/moderator"
+            android:id="@+id/navTerms"
+            android:title="Terms and Conditions"/>
+        <item
+            android:icon="@drawable/contacts"
+            android:id="@+id/navContact"
+            android:title="Contact Us"/>
+    </group>
+
+    <group android:id="@+id/group4">
+        <item
+            android:icon="@drawable/share"
+            android:id="@+id/navShear"
+            android:title="Share"/>
+    </group>
+
+</menu>
