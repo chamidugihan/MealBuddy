@@ -12,8 +12,8 @@ import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
 
 public class JavaMailAPI extends AsyncTask<Void, Void, String> {
-    private final String senderEmail = "javavideo001@gmail.com"; // Use your email
-    private final String senderPassword = "yvsq xtap gxtu tkdq"; // Use generated App Password
+    private final String senderEmail = "ENTER_YOUR_EMAIL_HERE"; // Use your email
+private final String senderPassword = "ENTER_YOUR_APP_PASSWORD_HERE"; // Use generated App Password
     private final String recipientEmail;
     private final String subject;
     private final String messageBody;

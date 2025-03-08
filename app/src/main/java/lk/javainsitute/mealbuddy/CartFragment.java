@@ -214,7 +214,7 @@ public class CartFragment extends Fragment implements CartAdapter.OnCartUpdatedL
         }
 
         InitRequest req = new InitRequest();
-        req.setMerchantId("1229022"); // Replace with actual Merchant ID
+        req.setMerchantId("ENTER_YOUR_MERCHANT_ID"); // Replace with actual Merchant ID
         req.setCurrency("LKR");       // Currency
         req.setAmount(total);         // Total Amount to be charged
         req.setOrderId(String.valueOf(randomInt));  // Unique order ID

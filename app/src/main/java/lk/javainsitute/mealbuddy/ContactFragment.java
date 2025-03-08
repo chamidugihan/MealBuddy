@@ -156,7 +156,7 @@ public class ContactFragment extends Fragment {
     private String getDirectionsUrl(LatLng origin, LatLng destination) {
         String originParam = "origin=" + origin.latitude + "," + origin.longitude;
         String destinationParam = "destination=" + destination.latitude + "," + destination.longitude;
-        String apiKey = "AIzaSyATQPPWNusCl79KUzdnMtxX6667RvrJ87o";
+        String apiKey = "ENTERS GOOGLE MAPS API KEY";
         return "https://maps.googleapis.com/maps/api/directions/json?" + originParam + "&" + destinationParam + "&mode=driving&key=" + apiKey;
     }
 
