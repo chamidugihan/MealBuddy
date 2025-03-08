@@ -23,10 +23,10 @@ MealBuddy is a dynamic food ordering app built using **Java** and **Firebase**. 
 
 ---
 
-## 🆕 New Additions
-✅ **Google API Key Setup**  
-✅ **PayHere Integration**  
-✅ **Email (SMTP) Setup**  
+## 🆕**Modifications:**
+✔️ Added instructions for adding Google API key in `AndroidManifest.xml`.  
+✔️ Added PayHere merchant ID setup in `CartFragment.java`.  
+✔️ Added WhatsApp number and Google Cloud API key setup in `ContactUsActivity.java`.    
 
 ---
 
