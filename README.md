@@ -1,7 +1,3 @@
-# MealBuddy
-M-Commerce Application for selling pizza using Android Studio(Java)
-
-
 # 🍽️ MealBuddy
 
 MealBuddy is a dynamic food ordering app built using **Java** and **Firebase**. It allows users to browse menus, place orders, and receive real-time updates on their order status. The app also includes an **Admin Dashboard** for managing users, orders, and product data efficiently.
@@ -33,20 +29,6 @@ MealBuddy is a dynamic food ordering app built using **Java** and **Firebase**. 
 | ![User Dashboard](screenshots/user_dashboard.png) | ![Admin Dashboard](screenshots/admin_dashboard.png) | ![Order Tracking](screenshots/order_tracking.png) |
 
 ---
-
-## 🚀 Getting Started
-
-### **1. Clone the Repository**
-```bash
-git clone https://github.com/your-username/MealBuddy.git
-
-
-
-
-
-
-
-
 [MealBuddy Presentation (2).pptx](https://github.com/user-attachments/files/19127168/MealBuddy.Presentation.2.pptx)
 
 
