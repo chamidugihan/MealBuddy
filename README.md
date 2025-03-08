@@ -8,7 +8,7 @@ MealBuddy is a dynamic food ordering app built using **Java** and **Firebase**. 
 ✅ **User-Friendly Interface** – Intuitive UI with nested RecyclerView for easy menu navigation.  
 ✅ **Order Management** – Real-time order tracking and status updates.  
 ✅ **Push Notifications** – Custom notifications without Firebase Admin SDK.  
-✅ **Secure Payments** – Integrated with **Razorpay** for seamless transactions.  
+✅ **Secure Payments** – Integrated with **PayHere** for seamless transactions.  
 ✅ **Admin Dashboard** – Manage users, products, and orders in one place.  
 ✅ **Analytics** – Pie charts for tracking order and user activity.  
 
@@ -23,11 +23,11 @@ MealBuddy is a dynamic food ordering app built using **Java** and **Firebase**. 
 
 ---
 
-## 📸 Screenshots
-| User Dashboard | Admin Dashboard | Order Tracking |
-|---------------|-----------------|----------------|
-| ![User Dashboard](screenshots/user_dashboard.png) | ![Admin Dashboard](screenshots/admin_dashboard.png) | ![Order Tracking](screenshots/order_tracking.png) |
-
+**New Additions:**
+✔️ **Google API Key Setup**  
+✔️ **PayHere Integration**  
+✔️ **Email (SMTP) Setup**  
+✔️ **Removed sensitive data and added `.gitignore`**  
 ---
 [MealBuddy Presentation (2).pptx](https://github.com/user-attachments/files/19127168/MealBuddy.Presentation.2.pptx)
 
