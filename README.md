@@ -44,4 +44,4 @@ MealBuddy is a dynamic food ordering app built using **Java** and **Firebase**. 
 
 ### **1. Clone the Repository**
 ```bash
-
+https://github.com/chamidugihan/MealBuddy.git
