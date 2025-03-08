@@ -68,15 +68,15 @@ public class ContactFragment extends Fragment {
 
         contactus.setOnClickListener(v -> {
             Intent i = new Intent(Intent.ACTION_DIAL);
-            Uri u = Uri.parse("tel:0785525426");
+            Uri u = Uri.parse("tel:xxxxxxxxxx");
             i.setData(u);
             startActivity(i);
         });
 
-        whatsapp.setOnClickListener(v -> sendMessageToWhatsApp("+94785525426", "Hello! Buddy"));
+        whatsapp.setOnClickListener(v -> sendMessageToWhatsApp("xxxxxxxxxx", "Hello! Buddy"));
 
         sms.setOnClickListener(v -> {
-            String phoneNumber = "0785525426";
+            String phoneNumber = "xxxxxxxxxx";
             String message = "Hello! Buddy";
 
             Uri uri = Uri.parse("smsto:" + phoneNumber);
