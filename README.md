@@ -18,7 +18,7 @@ MealBuddy is a dynamic food ordering app built using **Java** and **Firebase**. 
 - **Language:** Java  
 - **Backend:** Firebase Firestore  
 - **Notifications:** Custom Push Notifications  
-- **Payments:** Razorpay  
+- **Payments:** PayHere  
 - **UI:** RecyclerView, ViewHolder Pattern, Pie Charts (MPAndroidChart)  
 
 ---
